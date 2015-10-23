@@ -1,0 +1,29 @@
+body
+{
+    /*background-color: #4169E1;*/
+    background: url(../img1/fo1.jpg);
+    font-family: Arial;
+    color: white;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#canvas
+{
+    /*border: 1px solid red;*/
+    /*cursor: pointer;*/
+    /*background-color: #E6E6FA;*/
+    background: url(../img1/f3.jpeg);
+    border-radius: 15px;
+    border: 3px solid black;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color:transparent;
+}
